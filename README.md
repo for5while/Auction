@@ -1,5 +1,5 @@
 ## 링크
-포트폴리오 PPT (PDF 형식) : [바로가기](https://drive.google.com/file/d/1SfCEE5LN-L-PfukTRpNdIcgnUlJF0QnE/view?usp=sharing)<br>
+포트폴리오 PPT (PDF 형식) : [바로가기](https://drive.google.com/file/d/12kQLdPPucc33x2MymUBER5DkSMXXMVrk/view?usp=sharing)<br>
 사이트 주소 : [바로가기](http://itwillbs15.cafe24.com/auction/main/index)
 <br>
 <br>
@@ -19,7 +19,7 @@
 1. 로그인, 회원가입 : [소스 참고](https://github.com/for5while/Auction/tree/master/src/member)
 2. 경매 상품 등록/수정 : [소스 참고](https://github.com/for5while/Auction/blob/master/src/item/action/ItemWriteProAction.java)
 3. 쪽지(톡) : [소스 참고](https://github.com/for5while/Auction/tree/master/src/talk)
-4. 랜덤 카테고리 상품 : [소스 참고](https://github.com/for5while/Auction/blob/master/src/common/svc/RandomCategoryService.java)
+4. 랜덤 카테고리 상품 : [소스 참고](https://github.com/for5while/Auction/blob/master/src/common/svc/RandomCategoryService.java)<br><br>
 
 #### 🏆 최우수 상장 수여
 ![팀프로젝트_상장](https://user-images.githubusercontent.com/60057806/88550855-20db4b80-d05d-11ea-9739-ff0f4fb3b30c.jpg)
